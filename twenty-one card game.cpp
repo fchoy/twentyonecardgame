@@ -7,12 +7,6 @@
 #include <limits>
 using namespace std;
 
-/*
-* CURRENT ISSUES TO FIX (11/28/2020) :
-* 1. Formatting issues
-* 2. 2 Players & 2 CPUs don't work
-*/
-
 int main()
 {
 	srand(static_cast<unsigned int>(time(0)));
